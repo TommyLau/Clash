@@ -1,0 +1,8 @@
+# NAME: XPeng
+# AUTHOR: Tommy Lau
+# UPDATED: 2023-05-21
+payload:
+  - DOMAIN-SUFFIX,xiaopeng.com
+  - DOMAIN-SUFFIX,xiaopeng.local
+  - DOMAIN-SUFFIX,x-peng.com
+  - DOMAIN-SUFFIX,xiaopeng.link
